@@ -1,0 +1,29 @@
+# Abhängigkeitsordner
+/node_modules/
+
+# Build-Ausgabe
+/dist
+/build
+/.parcel-cache
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+# VSCode-Spezifische Dateien
+.vscode/
+
+# Log-Dateien
+*.log
+
+# Umgebungsdateien
+.env
+
+# Verzeichnisse für automatische Backups
+.backup/
+.backups/
+.temp/
+
+# Weitere Dateien und Ordner
+*.cache
+*.tmp
